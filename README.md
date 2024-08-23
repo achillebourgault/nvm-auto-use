@@ -36,13 +36,7 @@ Before using **nvm-auto-use**, ensure the following dependencies are installed:
 
 ### Installation
 
-1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/your_username/nvm-auto-switch.git
-    ```
-
-2. Add the following lines to your `.zshrc` file:
+1. Add the following lines to your `.zshrc` file:
 
     ```bash
     export NVM_DIR="$HOME/.nvm"
@@ -73,7 +67,7 @@ Before using **nvm-auto-use**, ensure the following dependencies are installed:
     load-nvmrc
     ```
 
-3. Reload your Zsh configuration:
+2. Reload your Zsh configuration:
 
     ```bash
     source ~/.zshrc
